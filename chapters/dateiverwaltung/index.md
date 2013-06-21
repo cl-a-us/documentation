@@ -1,7 +1,6 @@
 ---
 layout: chapter
 title: Dateiverwaltung
-chapter: dateiverwaltung
 ---
 
 {{site.moodle_name}} bietet Lehrenden die Möglichkeit den Studenten Dokumente, Bilder, Audio- sowie Video-Dateien und weiterführende Links und viele weitere Aktivitäten für die Lehre zur Verfügung zu stellen.

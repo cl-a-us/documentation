@@ -1,7 +1,6 @@
 ---
 layout: chapter
 title: Einleitung
-chapter: einleitung
 ---
 
 Formatierung des Handbuchs

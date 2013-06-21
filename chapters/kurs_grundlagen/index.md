@@ -1,7 +1,6 @@
 ---
 layout: chapter
 title: Der Kursbereich (Basics)
-chapter: kurs grundlagen
 ---
 
 Ein {{ site.moodle_name}}-Kurs ist ein Bereich, in dem Lehrende Arbeitsmaterialien und Aktivitäten für die Kursteilnehmer/innen (meist Studierende) bereitstellen.
